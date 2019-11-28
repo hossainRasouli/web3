@@ -1,0 +1,65 @@
+
+
+
+
+.space{
+
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+#padd{
+
+    position: relative;
+    top: 23px;
+
+
+}
+#fa-bottom{
+    margin-bottom: 23px;
+}
+
+.select2-container--default .select2-selection--single {
+    line-height: 24px !important;
+    padding: 9px 14px !important;
+    height: 45px !important;
+    border-color: #ccd1d9 !important;
+}
+#pr_ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+#pr_ul li.pull-left{
+
+    margin-left: 12px;
+}
+
+
+#pr_add_row li{
+
+    list-style-type: none;
+    display: inline-block;
+    float: left;
+    margin-bottom: 12px;
+    margin-left: 8px;
+
+
+}
+#ul-top li{
+    list-style-type: none;
+    display: inline-block;
+    float: left;
+    margin-left: 12px;
+    margin-bottom: 12px;
+}
+.bk{
+    font-size: 16px;
+
+}
+#tutia-backup{
+    margin-bottom: 10px;
+
+}
+
+
+
